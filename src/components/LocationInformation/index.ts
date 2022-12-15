@@ -1,0 +1,1 @@
+export { default as LocationInformation } from './LocationInformation';
